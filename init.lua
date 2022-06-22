@@ -15,5 +15,8 @@ minetest.unregister_item("scifi_nodes:plant7")
 minetest.unregister_item("scifi_nodes:plant8")
 minetest.unregister_item("scifi_nodes:plant9")
 minetest.unregister_item("scifi_nodes:plant_trap")
+minetest.unregister_item("scifi_nodes:grassblk unregister")
+minetest.unregister_item("scifi_nodes:gloshroom unregister")
+minetest.unregister_item("scifi_nodes:pad unregister")
 
 print("[MOD] scifi_nodes_unregister loaded!")
